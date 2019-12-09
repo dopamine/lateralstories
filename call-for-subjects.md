@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/
-
+permalink: /call-for-subjects/
+published: true
 ---
 
 ## Call for Subjects
