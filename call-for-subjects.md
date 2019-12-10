@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /call-for-subjects/
+title: Call for Subjects
 published: true
 ---
-
-## Call for Subjects
 
 People of Design,
 
