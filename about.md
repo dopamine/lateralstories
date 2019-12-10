@@ -17,3 +17,5 @@ Lateral Stories was started in November 2019 by Scotland based designer [Zita Or
 This website was brought to life with ample help from [Anda Popovici](#).
 
 ### Special thanks
+
+### Contact
