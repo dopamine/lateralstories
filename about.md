@@ -12,9 +12,7 @@ The project has three main goals:
 - And finally, to bring attention to the breadth of experiences and diverse backgrounds we come into this field from, the stories that are often underrepresented in the industry narrative
 
 ### Team
-Lateral Stories was started in November 2019 by Scotland based designer [Zita Orbán](#).
-
-This website was brought to life with ample help from [Anda Popovici](#).
+[Zita Orbán](#) [Anda Popovici](#)
 
 ### Special thanks
 
