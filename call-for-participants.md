@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /call-for-subjects/
+permalink: /call-for-participants/
 title: Call for Participants
 published: true
 ---
