@@ -9,7 +9,7 @@ People of Design,
 
 This project needs YOUR help to continue collecting and sharing career stories from across the design industry. 
 
-Please share this far and wide to your friends and colleagues — the more people this reaches outside of my network, the better the project will be.
+Please share this far and wide to your friends and colleagues — the more people this reaches outside of our network, the better the project will be.
 
 ### Can YOU help?
 
