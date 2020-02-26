@@ -7,7 +7,9 @@ published: true
 
 People of Design,
 
-This project needs YOUR help to continue collecting and sharing career stories from across the design industry.
+This project needs YOUR help to continue collecting and sharing career stories from across the design industry. 
+
+Please share this far and wide to your friends and colleagues — the more people this reaches outside of my network, the better the project will be.
 
 ### Can YOU help?
 
@@ -38,15 +40,11 @@ Read more about the [goals & whys of the Lateral Stories project](/about/)
 Practically speaking, I’m asking for an hour of your time over a video call, and the permission to publish the chat in a written form on the project website. (You will get to review it before it is published.) I’d also love to include images and links back to your work & socials, if you’d like that.
 
 
+
+
+
+
 ~
-
-
-Please share this far and wide to your friends and colleagues — the more people this reaches outside of my network, the better the project will be.
-
-
-Thanks and speak soon!
-Zita
-
 
 
 PS Full credits to the [Techies Project](https://techiesproject.com/) and [Helena Price Hambrecht](https://medium.com/u/675f0c1dc602) for the inspiration for this project.
