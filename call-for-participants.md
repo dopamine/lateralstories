@@ -7,11 +7,11 @@ published: true
 
 People of Design,
 
-I need your help creating a place to share career stories from across the design industry.
-
-I especially want to focus on stories of people who came to the field of design in some lateral way, or perhaps later in life: folk who never went to design school, or those who switched professions to pursue a career in design. 
+This project needs YOUR help to continue collecting and sharing career stories from across the design industry.
 
 ### Can YOU help?
+
+We're looking to speak to people who came to the field of design in some lateral way, or perhaps later in life: folk who never went to design school, or those who switched professions to pursue a career in design. 
 
 If you fit the above description, please consider being part of this project! All it involves is sharing your career story which will be published on this site in an interview format.
 
@@ -19,12 +19,11 @@ People from any branch of design are welcome, wherever you are on the art / crea
 
 If you have a stake in what a thing will look, feel or work like, you are welcome!
 
-
 ### How to be part of it?
 
 It’s simple:
 
-- If you fit this description, please do get in touch! Sharing your story will help many future hopeful designers in ways you can’t even think of. Just [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform).
+- If the above sounds like you, please do get in touch! Sharing your story will help many future hopeful designers in ways you can’t even think of. Just [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform).
 - Please nominate people you know who have these kinds of stories to share about their career path. Simply forward this call to them and if they are interested, they can [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform).
 
 
