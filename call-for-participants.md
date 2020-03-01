@@ -7,7 +7,8 @@ published: true
 
 People of Design,
 
-This project needs YOUR help to continue collecting and sharing career stories from across the design industry. 
+
+This project needs YOUR help to continue collecting career stories from across the design industry.
 
 Please share this far and wide to your friends and colleagues — the more people this reaches outside of our network, the better the project will be.
 
@@ -15,7 +16,7 @@ Please share this far and wide to your friends and colleagues — the more peopl
 
 We're looking to speak to people who came to the field of design in some lateral way, or perhaps later in life: folk who never went to design school, or those who switched professions to pursue a career in design. 
 
-If you fit the above description, please consider being part of this project! All it involves is sharing your career story which will be published on this site in an interview format.
+If you fit the above description, please consider [being part of this project](#)! All it involves is sharing your career story which will be published on this site in an interview format.
 
 People from any branch of design are welcome, wherever you are on the art / creative / marketing / content / software / product / interaction / service end of the spectrum, or even beyond. 
 
@@ -31,20 +32,19 @@ It’s simple:
 
 ### What to expect
 
+You'll be meeting [me](#) for an hour long chat over a video call.
+
 I'll want to hear how you landed that first design job, and what moved you to get into design in the first place. I want to know what it felt like, trying to take the jump into design. I want to hear about your struggles finding your feet, your biggest challenges, happiest successes and meanest setbacks along the way. And now that you’re here, I want to hear why you stay in our industry, what keeps you going and enthusiastic about design.
-
-As someone who passionately side-stepped into design myself, I’m looking forward to swapping war stories and hearing about what got you excited about this field, to take the huge leap of a career change.
-
-Read more about the [goals & whys of the Lateral Stories project](/about/)
 
 Practically speaking, I’m asking for an hour of your time over a video call, and the permission to publish the chat in a written form on the project website. (You will get to review it before it is published.) I’d also love to include images and links back to your work & socials, if you’d like that.
 
+As someone who passionately side-stepped into design myself, I’m looking forward to swapping war stories and hearing about what got you excited about this field, to take the huge leap of faith that is career change.
+
+[Get in touch to be a participant](#)
 
 
 
 
 
-~
 
 
-PS Full credits to the [Techies Project](https://techiesproject.com/) and [Helena Price Hambrecht](https://medium.com/u/675f0c1dc602) for the inspiration for this project.
