@@ -16,4 +16,6 @@ The project has three main goals:
 
 ### Special thanks
 
+Full credits to the [Techies Project](https://techiesproject.com/) and [Helena Price Hambrecht](https://medium.com/u/675f0c1dc602) for the inspiration for this project.
+
 ### Contact
