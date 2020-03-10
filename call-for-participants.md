@@ -7,43 +7,36 @@ published: true
 
 People of Design,
 
+Lateral Stories exists to share career stories from across the design industry, especially stories of people who came into our field from a different career, or perhaps later in life.
 
-This project needs YOUR help to continue collecting career stories from across the design industry.
+## Why is this important?
 
-Please share this far and wide to your friends and colleagues — the more people this reaches outside of our network, the better the project will be.
+Design as a field gained a lot of visibility in the last decade. I regularly meet passionate and driven people who want to become designers. Sadly, they often feel completely lost as to how to begin. 
 
-### Can YOU help?
+From the outside looking in, it can feel like going to design school is the only way “in”, which by far isn’t the case. Plenty of us switched from other careers or took some more round-about way to making it as designers.
 
-We're looking to speak to people who came to the field of design in some lateral way, or perhaps later in life: folk who never went to design school, or those who switched professions to pursue a career in design. 
+## What can YOU do to help?
 
-If you fit the above description, please consider [being part of this project](#)! All it involves is sharing your career story which will be published on this site in an interview format.
+The more people share their stories here, the better resource this will be for people considering a career in design.
 
-People from any branch of design are welcome, wherever you are on the art / creative / marketing / content / software / product / interaction / service end of the spectrum, or even beyond. 
+Did you come into design in some lateral way, or perhaps later in life? Did you never go to design school, or switched professions to pursue a career in this field?
 
-If you have a stake in what a thing will look, feel or work like, you are welcome!
+If so, please consider sharing your career story through this project! 
 
-### How to be part of it?
+People from any branch of design are welcome, wherever you are on the art / creative / marketing / content / software / product / interaction / service end of the spectrum, or even beyond. If you have a stake in what a thing will look, feel or work like, you are invited to be part of this project.
 
-It’s simple:
+## How to participate?
 
-- If the above sounds like you, please do get in touch! Sharing your story will help many future hopeful designers in ways you can’t even think of. Just [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform).
-- Please nominate people you know who have these kinds of stories to share about their career path. Simply forward this call to them and if they are interested, they can [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform).
+It’s simple - just [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform) and I’ll get back to you about next steps.
 
+Practically speaking, I’m asking for an hour of your time over a video call, and the permission to publish the chat in a written form on the project website. (You will get to review it before it is published.) I’d also love to include images and links back to your work & socials, if you’d like that, but it will be up to you how much or how little you want to share.
 
-### What to expect
+Also, if you know someone who would be a great fit for this site, please don’t hesitate to forward this page for their attention! 
 
-You'll be meeting [me](#) for an hour long chat over a video call.
+Please share this far and wide to your friends and colleagues — the more people this reaches outside of my network, the better the project will be.
 
-I'll want to hear how you landed that first design job, and what moved you to get into design in the first place. I want to know what it felt like, trying to take the jump into design. I want to hear about your struggles finding your feet, your biggest challenges, happiest successes and meanest setbacks along the way. And now that you’re here, I want to hear why you stay in our industry, what keeps you going and enthusiastic about design.
-
-Practically speaking, I’m asking for an hour of your time over a video call, and the permission to publish the chat in a written form on the project website. (You will get to review it before it is published.) I’d also love to include images and links back to your work & socials, if you’d like that.
-
-As someone who passionately side-stepped into design myself, I’m looking forward to swapping war stories and hearing about what got you excited about this field, to take the huge leap of faith that is career change.
-
-[Get in touch to be a participant](#)
-
-
-
+Thanks and speak soon!
+Zita
 
 
 
