@@ -1,6 +1,7 @@
 ---
 published: false
 visible: 1
+layout: post
 ---
 ## About Zita
 
