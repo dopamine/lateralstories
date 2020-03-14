@@ -1,6 +1,6 @@
 ---
 published: false
-visible: 0
+visible: 1
 ---
 ## About Zita
 
