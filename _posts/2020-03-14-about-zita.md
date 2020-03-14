@@ -1,8 +1,9 @@
 ---
+
 published: true
 visible: 0
+
 ---
-## About Zita
 
 ### Tell me about your early years and where you come from.
 I grew up in a small post-communist town in central Hungary. It was an excruciatingly boring place for a kid with an active mind. I didn’t enjoy school much, it felt like my worth was measured in artificial and pointless ways, so I checked out pretty quickly. 
