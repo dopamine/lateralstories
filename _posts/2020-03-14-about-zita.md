@@ -10,6 +10,8 @@ I grew up in a small post-communist town in central Hungary. It was an excruciat
 
 Outside of school though, I was interested in a ton of things and did pretty well at them: drawing, photography, coding, computer arts and languages.
 
+I kind of came into my own once I moved to the capital, Budapest, for university. I absolutely loved my years in that city, it's got a certain grit to it and a lively arts & cultural scene.
+
 ### What did you study, how did your working life begin?
 I was discouraged from going down the art school route pretty early on by my parents, but I found other ways to express my interest in the arts. I participated pretty heavily in the [demoscene](https://en.wikipedia.org/wiki/Demoscene), a global computer arts community. I also spent countless hours browsing the internet and discovered the world of “new media”, of designing interactive technology. This was before the term “UX design” was coined, but I instinctively knew it was the exact thing I wanted: to make technology better for humans. 
 
