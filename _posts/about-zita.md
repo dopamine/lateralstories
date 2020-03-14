@@ -1,7 +1,6 @@
 ---
 
 published: true
-visible: 0
 
 ---
 
