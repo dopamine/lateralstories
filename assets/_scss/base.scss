@@ -1,0 +1,92 @@
+html { font-size:18px; }
+
+body { 
+    font: $fw-body 1rem /1.6 $font-body; 
+    color: $c-text; 
+    background-color: $c-bg;
+}
+
+:focus {
+  outline: 2px solid $c-interaction-l;
+  outline-offset: 4px;
+  transition:outline-offset 0.1s ease-in-out, outline 0.1s ease-in-out;
+}
+
+.hero {  font: $fw-head 3rem /1.05 $font-head; text-align:center;}
+h1 {  font: $fw-head 3rem /1.4 $font-head; letter-spacing:.1rem; margin-top: 0;}
+h2 {  font: $fw-body-bold 1.6rem /1.5 $font-body; }
+h3 {  font: $fw-body-bold 1.2rem /1.3 $font-body; }
+p {  font: $fw-body 1rem /1.6 $font-body; }
+a {
+  font-weight: $fw-body-bold;
+  color: $c-text;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: $c-accent;
+  transition: all .2s ease-in-out;
+  &:hover {color:$c-interaction; text-decoration: underline;}
+  &:focus {transition:outline-offset 0.1s ease-in-out; }
+}
+
+header a { color: $c-text; }
+
+small {  font: $fw-body 0.9rem /1.3 $font-body; }
+blockquote, blockquote p {  
+    font: italic $fw-head 2.4rem /1.2 $font-body;
+}
+blockquote {
+    border-left: $base solid $c-accent;
+    margin-left: 0;
+    padding-left: 3rem;
+}
+
+pre {
+  background-color: #eaeaea;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  padding: 8px 16px;
+}
+
+code {
+  word-break: break-word;
+  background-color: #eaeaea;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+ // color: teal;
+  font-size:0.9rem;
+  padding: 0 4px;
+}
+
+pre code { background-color: auto; border: none; padding: 0;}
+
+button {
+  border:2px solid $c-grey-00;
+  background-color:#fff;
+  border-radius:6px;
+  color:$c-grey-00;
+  font: $fw-body 1em $font-body;
+  text-transform:uppercase;
+  padding: $base 3*$base;
+  transition: box-shadow 0.2s ease-in-out;
+  &:hover {
+    box-shadow:0 0 0 3px $c-grey-60;
+  }
+  &:focus {
+    outline:0;
+    box-shadow:0 0 0 3px $c-interaction-l, inset 0 2px 0 0 rgba(0,0,0,0.1);
+    transition: box-shadow 0.2s ease-in-out;
+  }
+}
+
+button.primary {
+  background-color:$c-grey-00;
+  color:#fff;
+  &:hover, &:focus { background-color: $c-grey-10}
+}
+
+a.action {
+  font: $fw-body 1em $font-body;
+  white-space:nowrap;
+}
+
+

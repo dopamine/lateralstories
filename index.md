@@ -1,7 +1,6 @@
 ---
-layout: coming-soon
-title: "Coming soon"
-copyright: ""
+layout: default
+title: "Home"
 ---
 
-*
+Coming soon

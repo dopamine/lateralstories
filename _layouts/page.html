@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<main class="page__wrapper">
+  <article class="page">
+    <div class="post__header">
+      <h1 class="page__title">{{ page.title | escape }}</h1>
+    </div>
+    <div class="page__content">
+      {{ content | img_prefix }}
+    </div>
+  </article>
+  {%- include contact.html -%}
+</main>

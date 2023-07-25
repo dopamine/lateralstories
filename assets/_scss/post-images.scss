@@ -1,0 +1,25 @@
+.post__content p img {
+    width:100%;
+
+    &.noresize {
+        width: auto;
+        max-width: 100%;
+    }
+
+    @media screen and (min-width: $bp-med) { 
+        &.punch-right {
+            width: 50rem;
+        }
+    
+        &.punch-left {
+            width: 50rem;
+            position: relative;
+            left:-10rem;
+        }
+        &.extra-wide {
+            width: 60rem;
+            position: relative;
+            left:-10rem;
+        }
+    }
+}
