@@ -2,6 +2,7 @@
 ---
 @import "variables.scss";
 @import "base.scss";
+@import "tiles.scss";
 @import "post-images.scss";
 @import "gallery.scss";
 
@@ -96,6 +97,12 @@ header a {
 }
 
 
+.call-for-participants {
+    padding: .5em 2em 1em;
+    border: 1px dotted #ddd;
+    border-radius: 6px;
+}
+
 
 @media screen and (min-width: $bp-small) { 
     .post-list-item {
@@ -173,6 +180,14 @@ header h1 a.home-link {
     margin: 0;
     padding: 0 0 8px 0;
 }
+
+.post__portrait { width: 600px; margin-top: 24px; }
+
+.post__title .subtitle {
+ //   font-family: $font-body;
+    font-size: .5em;
+    display: block;
+  }
 
 .post__header .post__meta {
     font-size: 12px;
@@ -265,4 +280,8 @@ nav ul {
     width: 120px;
     position: relative;
     top: -150px;
+}
+
+.space-above {
+    margin-top: 6em;
 }

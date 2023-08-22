@@ -5,27 +5,15 @@ layout: default
   {%- if site.status -%}
     {%- include status.html -%}
   {%- endif -%}
-<!--
-  {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  <div class="blog__yearlist">
-    <span>Jump to year: </span>
-    <ul>
-      {%- for year in years %}
-        <li><a href="#yr{{ year.name }}">{{ year.name }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
--->
 
-  {%- for year in years %}
-    <h3 id="yr{{ year.name }}" class="post-list-title">{{ year.name }}</h3>
-    {%- assign posts = year.items %}
     <ul class="post-list">
-      {%- for post in posts %}
+      {%- for post in site.posts %}
         <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
           <span class="post-time">{{ post.date | date: "%e %b" }}</span>
           <span class="post-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
+            &middot; 
+            <small>{{ post.subtitle }}</small>
           </span>
           <span class="time-to-read">
             {%- if post.draft != true %}
@@ -36,6 +24,8 @@ layout: default
           </span>
         </li>
       {%- endfor %}
+      <li class="post-list-item space-above">
+        This project is only just getting started. Have you switched careers too? <a href="{{site.baseurl}}/call-for-participants">Please share your story &raquo;</a>
+      </li>
     </ul>
-  {%- endfor %}
 </main>
