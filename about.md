@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-Lateral Stories is a collection of interviews, sharing stories from people who came into the Design industry from a different career.
+Lateral Stories is a collection of interviews, sharing the journeys of people who came into the Design industry from a different career.
 {:.lead}
 
 It is an ongoing passion project initially focusing on the Design industry, but in the longer term it aims to share stories from across the entire gamut of career change.
