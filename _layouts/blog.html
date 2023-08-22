@@ -6,6 +6,8 @@ layout: default
     {%- include status.html -%}
   {%- endif -%}
 
+  <h2>Stories archive</h2>
+
     <ul class="post-list">
       {%- for post in site.posts %}
         <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
