@@ -27,7 +27,7 @@ People from any branch of design are welcome, wherever you are on the art / crea
 
 ### How to participate?
 
-It’s simple - just [respond using this form](https://docs.google.com/forms/d/e/1FAIpQLSePfikEjU6Cuz-Ro8UKtnEJ0jlMvWMk8dgef-Iv5B5l5ucucQ/viewform) and I’ll get back to you about next steps.
+It’s simple - just [respond using this form](https://bit.ly/lateralstories-intake) and I’ll get back to you about next steps.
 
 Practically speaking, I’m asking for an hour of your time over a video call, and the permission to publish the chat in a written form on the project website. (You will get to review it before it is published.) I’d also love to include images and links back to your work & socials, if you’d like that, but it will be up to you how much or how little you want to share.
 
