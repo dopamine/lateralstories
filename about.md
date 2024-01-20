@@ -16,7 +16,3 @@ Hello, I'm [Zita](https://www.linkedin.com/in/zitaorban/) of [Lateral &co](https
 Through supporting people with their career switching challenges, I realised how many of those who want to get into Design are held back by myths and fears about what it takes to land their first job in the field. Making the jump can feel like an insurmountable challenge, even when these people have excellent transferable skills and aptitudes that would help them succeed.
 
 I firmly believe that going to design school is not a pre-requisite to becoming a great designer, and want to help open up the industry to people with more diverse backgrounds and skills.
-
-## Special thanks
-
-Full credits to the [Techies Project](https://techiesproject.com/) and [Helena Price Hambrecht](https://medium.com/u/675f0c1dc602) for the inspiration for this project.
