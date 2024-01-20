@@ -1,7 +1,7 @@
 ---
 
-title: "Agronomist to Design Researcher"
-subtitle: "Agronomist to Design Researcher"
+title: "Agronomist to Research Lead"
+subtitle: "Agronomist to Research Lead"
 portrait: portrait-left.png
 
 ---

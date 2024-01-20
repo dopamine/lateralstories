@@ -1,6 +1,6 @@
 ---
-title: "Ethnographer to Market Researcher"
-subtitle: "Ethnographer to Market Researcher"
+title: "Ethnographer to Design Researcher"
+subtitle: "Ethnographer to Design Researcher"
 portrait: portrait-right.png
 
 ---
