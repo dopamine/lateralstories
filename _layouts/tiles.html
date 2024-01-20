@@ -13,23 +13,25 @@ layout: default
     <div class="post-tiles">
 
       {%- for post in site.posts %}
-        <div class="post-tiles-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
-          <a href="{{ post.url | relative_url }}">
-            <h2 class="post-title">
-              {{ post.title }}
-            </h2>
-          </a>
-          <small class="post-tiles-meta">
-            {%- if post.draft != true %}
-              {% include time-to-read.html -%}
-            {% else %}
-              Draft
-            {% endif %}
-          </small>
-          {%- if post.portrait -%}
-            <img src="{{ site.imgsrc }}/portraits/{{ post.portrait }}" />
-          {%- endif -%}
-        </div>
+        {%- if post.draft != true %}
+          <div class="post-tiles-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
+            <!-- a href="{{ post.url | relative_url }}"-->
+              <h2 class="post-title">
+                {{ post.title }}
+              </h2>
+            <!-- /a -->
+            <!-- small class="post-tiles-meta">
+              {%- if post.draft != true %}
+                {% include time-to-read.html -%}
+              {% else %}
+                Draft
+              {% endif %}
+            </small-->
+            {%- if post.portrait -%}
+              <img src="{{ site.imgsrc }}/portraits/{{ post.portrait }}" />
+            {%- endif -%}
+          </div>
+        {% endif %}
       {%- endfor %}
 
       <div class="call-for-participants">
