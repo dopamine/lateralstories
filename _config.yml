@@ -2,17 +2,15 @@ title:  lateral &middot; stories
 email: lateral.stories@xiple.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Lateral Stories in Design
-baseurl: "/lateralstories" # the subpath of your site, e.g. /blog
-domain: "https://stories.lateralco.studio"
-url: https://dopamine.github.io/lateralstories # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: "https://lateralstories.com"
+url: https://lateralstories.com # the base hostname & protocol for your site, e.g. http://example.com
 imgsrc: "https://pub-e5c465795334447881100228fc123407.r2.dev"
-twitter_username: zita.freeburn
-github_username:  dopamine
 
 author:
   name: Zita
-  url: https://xiple.co.uk
-  email: hello@xiple.co.uk
+  url: https://lateralco.studio
+  email: lateral.stories@xiple.co.uk
 
 nav_pages:
   - index.md
