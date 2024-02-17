@@ -2,10 +2,19 @@
 layout: tiles
 title: "Home"
 ---
-A project investigating the hurdles of career change into design and tech, sharing stories and insights from people with diverse career paths.
+
+Interviews with people from diverse career paths about the hurdles of career change into design and tech.
 {:.lead}
 
 {% comment %}
+
+Interviews with people from diverse career paths about the hurdles of career change into design and tech.
+
+
+Stories from people with diverse career paths about the hurdles of career change into design and tech.
+
+A project investigating the hurdles of career change into design and tech, sharing stories and insights from people with diverse career paths.
+
 Interviews and insights with people who arrived into the design industry from diverse career paths.
 
 Lateral Stories is an interview series sharing the journeys of people who came into the design industry from a different career.
