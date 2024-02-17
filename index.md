@@ -30,5 +30,5 @@ Breaking barriers in design & tech: Non-traditional journeys.
 Jumping into design & tech: Lessons from career pivots.
 {% endcomment %}
 
-### Latest stories
+### Upcoming stories
 {: .space-above}
