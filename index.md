@@ -1,6 +1,8 @@
 ---
 layout: tiles
 title: "Home"
+sitemap:
+    changefreq: monthly
 ---
 
 Interviews with people from diverse career paths about the hurdles of career change into design and tech.
