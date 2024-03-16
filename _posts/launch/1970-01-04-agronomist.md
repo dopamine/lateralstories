@@ -4,6 +4,8 @@ title: "Agronomist to Research Strategist"
 subtitle: "Agronomist to Research Strategist"
 portrait: portrait-3.png
 
+categories: launch
+
 sitemap:
   exclude: true
 
