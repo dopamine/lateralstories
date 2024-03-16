@@ -15,10 +15,26 @@ layout: default
       <div class="post__meta">
           {% include time-to-read.html -%}
       </div>
-
+    </div>
+    <div class="post__profile">
       {%- if page.portrait -%}
         <img class="post__portrait" src="{{ site.imgsrc }}/portraits/{{ page.portrait }}" />
       {%- endif -%}
+      <div class="profile-aside">
+        <h3>Profile</h3>
+        <h4>Journey</h4>
+        <ul class="journey">
+          {% for stop in page.journey %}
+            <li>{{ stop }}</li>
+          {% endfor %}
+        </ul>
+        <h4>Socials</h4>
+        <ul class="socials">
+          {% for link in page.socials %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
     <div class="post__content">
       {{ content | toc | img_prefix }}

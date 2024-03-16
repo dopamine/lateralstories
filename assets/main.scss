@@ -181,8 +181,6 @@ header h1 a.home-link {
     padding: 0 0 8px 0;
 }
 
-.post__portrait { width: 600px; margin-top: 24px; }
-
 .post__title .subtitle {
  //   font-family: $font-body;
     font-size: .5em;
@@ -192,6 +190,48 @@ header h1 a.home-link {
 .post__header .post__meta {
     font-size: 12px;
     text-transform: uppercase;
+}
+
+.post__profile {
+    font-size: smaller;
+
+    .post__portrait { 
+        width: 100%;
+    }
+    
+    .profile-aside {
+        background: $c-grey-80;
+        padding: $base 4*$base;
+
+
+        h3 { margin: 0; }
+        h4 { margin: $base 0 0;}
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            padding: 0 0 $base;
+        }
+        .journey li:before {
+            content: '⇒';
+            padding-right: $base;
+        }
+    }
+
+    @media screen and (min-width: $bp-small) { 
+        display: flex;
+
+        .post__portrait { 
+            width: 600px; 
+            align-self: center;
+        }
+        .profile-aside {
+            width:100%;
+        }
+    }
+    
 }
 
 .post__colophon {
@@ -286,3 +326,4 @@ nav ul {
 .space-above {
     margin-top: 6em;
 }
+

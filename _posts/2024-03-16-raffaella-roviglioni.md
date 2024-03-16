@@ -4,14 +4,12 @@ title: "Raffaella Roviglioni"
 subtitle: "Agronomist to Design Strategist"
 portrait: 2024-03-18-raffaella-roviglioni.png
 
+journey: ["Agronomist", "Web editor", "UX Designer", "Design Researcher", "Strategist"]
+socials: 
+- title: "LinkedIn"
+  url: https://www.linkedin.com/in/raffiro/
+
 ---
-
-## Profile
-[LinkedIn]( https://www.linkedin.com/in/raffiro/)
-
-Journey: Agronomist ⇒ Web editor ⇒ UX Designer ⇒ Design Researcher + Strategist
-
-## The conversation
 
 ### What did you do before moving into Design?
 
