@@ -9,6 +9,9 @@ layout: default
   <h2>Stories archive</h2>
 
     <ul class="post-list">
+      <li class="post-list-item">
+        This project is only just getting started. Have you switched careers too? <a href="{{site.baseurl}}/call-for-participants">Please share your story &raquo;</a>
+      </li>
       {%- for post in site.posts %}
         {%- unless post.draft == true or post.categories contains "launch" %}
           <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
@@ -28,8 +31,8 @@ layout: default
           </li>
         {% endunless %}
       {%- endfor %}
-      <li class="post-list-item space-above">
-        This project is only just getting started. Have you switched careers too? <a href="{{site.baseurl}}/call-for-participants">Please share your story &raquo;</a>
-      </li>
     </ul>
+    <div class="space-above">
+      {% include email-list.html %}
+    </div>
 </main>
