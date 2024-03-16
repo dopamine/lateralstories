@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /call-for-participants/
-title: Call for Participants
+title: Share your story
 published: true
 sitemap:
   priority: 0.8
