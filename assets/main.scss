@@ -204,6 +204,7 @@ header h1 a.home-link {
     display: flex;
     border-top: 1px solid $c-grey-60;
     border-bottom: 1px solid $c-grey-60;
+    margin-top: 10*$base;
 
     .prev, .next {
         display: inline-block;
