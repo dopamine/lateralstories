@@ -4,6 +4,7 @@ subtitle: "Anthropologist to Design Researcher"
 portrait: portrait-1.png
 
 categories: launch
+draft: true
 
 sitemap:
   exclude: true

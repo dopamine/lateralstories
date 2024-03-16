@@ -4,6 +4,7 @@ subtitle: "Microbiologist to Service Designer"
 portrait: portrait-5.png
 
 categories: launch
+draft: true
 
 sitemap:
   exclude: true

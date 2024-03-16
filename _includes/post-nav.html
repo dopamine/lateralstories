@@ -1,15 +1,19 @@
 <div class="post__nav">
     {% if page.previous.url %}
-        <a class="prev" href="{{ page.previous.url | relative_url }}">
-            <small>Previous</small>
-            <span>{{page.previous.title}}</span>
-        </a>
+        {% unless page.previous.draft == true or page.previous.categories contains "draft" %}
+            <a class="prev" href="{{ page.previous.url | relative_url }}">
+                <small>Previous</small>
+                <span>{{page.previous.title}}</span>
+            </a>
+        {% endunless %}
     {% endif %}
     {% if page.next.url %}
-        <a class="next" href="{{ page.next.url | relative_url }}">
-            <small>Next</small>
-            <span>{{page.next.title}}</span>
-        </a>
+        {% unless page.next.draft == true or page.previous.categories contains "draft" %}
+            <a class="next" href="{{ page.next.url | relative_url }}">
+                <small>Next</small>
+                <span>{{page.next.title}}</span>
+            </a>
+        {% endunless %}
     {% endif %}
   </div>
   
