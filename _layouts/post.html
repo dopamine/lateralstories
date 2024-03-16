@@ -23,10 +23,10 @@ layout: default
     <div class="post__content">
       {{ content | toc | img_prefix }}
     </div>
-    <div class="post__colophon">
+    <!-- div class="post__colophon">
       Published by <a href="mailto:{{ site.author.email }}">{{ site.author.name }}</a>
       on <time>{{ page.date | date: "%e %B %Y" }}</time>
-    </div>
+    </div -->
   </article>
   {% include post-nav.html %}
 </main>
