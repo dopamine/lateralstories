@@ -1,6 +1,7 @@
 ---
 ---
 @import "variables.scss";
+@import "spacing.scss";
 @import "base.scss";
 @import "tiles.scss";
 @import "post-images.scss";
@@ -322,10 +323,6 @@ nav ul {
     }
 }
 
-.highlight {
-    white-space: break-spaces;
-}
-
 .about-avatar {
     float: right;
     width: 120px;
@@ -333,7 +330,21 @@ nav ul {
     top: -150px;
 }
 
-.space-above {
-    margin-top: 6em;
+.email-list-signup {
+    background: $c-grey-80;
+    @extend %squish-XL;
+    padding-bottom: 6*$base;
+
+    .email-promise, .signup-form {
+        width: 100%;
+    }
+
+    .signup-form {
+        label input {
+            display: block;
+            @extend %stack-L;
+            width: 80%;
+        }
+    }
 }
 

@@ -1,0 +1,121 @@
+/*
+# Requires
+$bp-small
+$bp-med
+$base
+
+# Usage
+
+@extend %[inset | squish | stretch | stack | inline]-[XS | S | M | L | XL]
+
+Example
+`@extend %inset-M`
+
+*/
+
+// scale used
+$scale : (
+  0  : 0.0625,
+  1  : 0.125,
+  2  : 0.25,    // XS
+  3  : 0.5,    // S
+  4  : 1,      // M
+  5  : 1.5,    // L
+  6  : 3,      // XL
+  7  : 6,
+  8  : 10
+);
+
+// naming convention
+$sizes : ('XS', 'S', 'M', 'L', 'XL');
+
+$spacings : ();
+
+@each $k,$v in $scale {
+  $spacings: append($spacings, $v*$base);
+}
+
+@mixin inset($s,$i, $offs) {
+  %inset-#{$s} { padding: nth($spacings, $i+$offs) }
+
+  @media screen and (max-width: $bp-small ) {
+    %inset-#{$s} { padding: nth($spacings, $i+$offs - 1) }
+  }
+  @media screen and (min-width: $bp-med ) {
+    %inset-#{$s} { padding: nth($spacings, $i+$offs + 1) }
+  }
+}
+
+@mixin squish($s,$i, $offs) {
+  %squish-#{$s} {
+    $p : nth($spacings, $i+$offs);
+    padding: round($p/3) $p
+  }
+  @media screen and (max-width: $bp-small ) {
+    $p : nth($spacings, $i+$offs - 1);
+    %squish-#{$s} { padding: round($p/3) $p }
+  }
+  @media screen and (min-width: $bp-med ) {
+    $p : nth($spacings, $i+$offs + 1);
+    %squish-#{$s} { padding: round($p/3) $p }
+  }
+}
+
+@mixin stretch($s,$i,$offs) {
+  %stretch-#{$s} {
+    $p : nth($spacings, $i+$offs);
+    padding: $p round($p/3)
+  }
+  @media screen and (max-width: $bp-small ) {
+    $p : nth($spacings, $i+$offs - 1);
+    %stretch-#{$s} { padding: $p round($p/3) }
+  }
+  @media screen and (min-width: $bp-med ) {
+    $p : nth($spacings, $i+$offs + 1);
+    %stretch-#{$s} { padding: $p round($p/3) }
+  }
+}
+
+@mixin stack($s,$i,$offs) {
+  %stack-#{$s} {
+    margin-bottom: nth($spacings, $i+$offs) ;
+  }
+  @media screen and (max-width: $bp-small ) {
+    %stack-#{$s} { margin-bottom: nth($spacings, $i+$offs - 1) ; }
+  }
+  @media screen and (min-width: $bp-med ) {
+    %stack-#{$s} { margin-bottom: nth($spacings, $i+$offs + 1) ; }
+  }
+}
+
+@mixin inline($s,$i,$offs) {
+  %inline-#{$s} { margin-right: nth($spacings, $i+$offs) }
+  @media screen and (max-width: $bp-small ) {
+    %inline-#{$s} {  margin-right: nth($spacings, $i+$offs - 1 ) }
+  }
+  @media screen and (min-width: $bp-med ) {
+    %inline-#{$s} { margin-right: nth($spacings, $i+$offs + 1) }
+  }
+}
+
+
+@mixin spacing($offs) {
+  $i : 1;
+  @each $s in $sizes {
+    $v : nth($spacings, $i+$offs);
+
+    @include inset($s, $i, $offs);
+    @include squish($s, $i, $offs);
+    @include stretch($s, $i, $offs);
+    @include stack($s, $i, $offs);
+    @include inline($s, $i, $offs);
+
+    $i : $i+1;
+  }
+}
+
+@include spacing(2);
+
+//@media screen and (max-width: $bp-small ) { @include spacing(1); }
+
+//@media screen and (min-width: $bp-med ) { @include spacing(3); }
