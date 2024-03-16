@@ -218,6 +218,16 @@ header h1 a.home-link {
             content: '⇒';
             padding-right: $base;
         }
+        .socials li { 
+            display: inline-block; 
+        
+            a {
+                margin: 0 4px 0 2px;
+            }
+        }
+        .socials li:not(:last-child)::after {
+            content: '·';
+        }
     }
 
     @media screen and (min-width: $bp-small) { 
