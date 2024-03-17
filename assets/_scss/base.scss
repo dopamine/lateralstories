@@ -128,8 +128,12 @@ a.action {
 }
 
 .flex-container {
-  display: flex;
-  gap: 10*$base;
+  display: block;
+
+  @media screen and (min-width: $bp-small) { 
+    display: flex;
+    gap: 10*$base;
+  }
 }
 
 .center { text-align: center; }
