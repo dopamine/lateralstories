@@ -10,18 +10,18 @@ layout: default
 
     <ul class="post-list">
       <li class="post-list-item">
-        This project is only just getting started. Have you switched careers too? <a href="{{site.baseurl}}/call-for-participants">Please share your story &raquo;</a>
+        This project is only just getting started. Have you switched careers too? <a class="nobreak" href="{{site.baseurl}}/call-for-participants">Please share your story &raquo;</a>
       </li>
       {%- for post in site.posts %}
         {%- unless post.draft == true or post.categories contains "launch" %}
           <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
             <span class="post-time">{{ post.date | date: "%e %b" }}</span>
             <span class="post-title">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
+              <a class="nobreak" href="{{ post.url | relative_url }}">{{ post.title }}</a> 
               &middot; 
-              <small>{{ post.subtitle }}</small>
+              <small class="nobreak">{{ post.subtitle }}</small>
             </span>
-            <span class="time-to-read">
+            <span class="time-to-read nobreak">
               {%- if post.draft != true %}
                 {% include time-to-read.html -%}
               {% else %}
