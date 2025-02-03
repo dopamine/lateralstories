@@ -1,4 +1,5 @@
 ---
+layout: story
 
 title: "Raffaella Roviglioni" 
 subtitle: "Agronomist to Design Strategist"

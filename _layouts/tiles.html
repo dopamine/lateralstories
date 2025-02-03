@@ -12,8 +12,7 @@ layout: default
   
     <div class="post-tiles">
 
-      {%- for post in site.posts %}
-        {%- if post.categories contains "launch" %}
+      {%- for post in site.launch %}
           <div class="post-tiles-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
             <!-- a href="{{ post.url | relative_url }}"-->
               <h2 class="post-title">
@@ -31,7 +30,6 @@ layout: default
               <img src="{{ site.imgsrc }}/portraits/{{ post.portrait }}" />
             {%- endif -%}
           </div>
-        {% endif %}
       {%- endfor %}
 
       <div class="call-for-participants">

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Stories"
+title: "Insights"
 
 sitemap:
   priority: 1

@@ -14,7 +14,8 @@ author:
 
 nav_pages:
   - index.md
-  - stories.md
+  - stories.html
+  - blog.md
   - call-for-participants.md
   - about.md
 
@@ -22,6 +23,10 @@ rss: "atom.xml"
 
 collections:
   test:
+    output: true
+  stories:
+    output: true
+  launch:
     output: true
 
 # Build settings
