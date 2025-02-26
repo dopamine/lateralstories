@@ -33,12 +33,12 @@ header a { color: $c-text; }
 
 small {  font: $fw-body 0.9rem /1.3 $font-body; }
 blockquote, blockquote p {  
-    font: italic $fw-head 2.4rem /1.2 $font-body;
+    font: italic $fw-head 1.4rem /1.6 $font-body;
 }
 blockquote {
     border-left: $base solid $c-accent;
     margin-left: 0;
-    padding-left: 3rem;
+    padding-left: 1.5rem;
 }
 
 pre {

@@ -62,7 +62,8 @@ header a {
     .container-main main { 
         flex: 1; 
     }
-    .container-main p {
+    .container-main p,
+    .post ul {
         max-width: 40rem; 
     }
     footer {
