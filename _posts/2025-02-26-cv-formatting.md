@@ -13,7 +13,7 @@ In [Effective Resumes for UX Career Changers](https://www.nngroup.com/articles/r
 > These resumes are frequently bloated with self-serving, low–information-density content to mask delivering the bare minimum (or perhaps just due to misguided resume advice). <br>
 > A resume following the guidance [in this article] will be noticeable and stand out.
 
-- The article covers various topics on how to optimise your CV, but its most useful advice is on *how* to best showcase your past experience on your first UX CV: it recommends that you don’t hide or discard your previous experience, but that you reframe it instead. 
+The article covers various topics on how to optimise your CV, but its most useful advice is on *how* to best showcase your past experience on your first UX CV: it recommends that you don’t hide or discard your previous experience, but that you reframe it instead. 
 
 To summarise the key points of Sunwell's advice, here’s how to tweak old content from your previous CV for each of your past roles:
 
