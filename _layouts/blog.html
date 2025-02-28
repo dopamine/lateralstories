@@ -13,11 +13,11 @@ layout: default
       {%- for post in site.posts %}
         {%- unless post.draft == true %}
           <li class="post-list-item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
-            <span class="post-time">{{ post.date | date: "%e %b" }}</span>
+            <!--span class="post-time">{{ post.date | date: "%e %b" }}</span-->
             <span class="post-title">
               <a class="nobreak" href="{{ post.url | relative_url }}">{{ post.title }}</a> 
               {% if post.subtitle %}
-                &middot; <small class="nobreak">{{ post.subtitle }}</small>
+                <small class="nobreak">{{ post.subtitle }}</small>
               {% endif %}
             </span>
             <span class="time-to-read nobreak">
