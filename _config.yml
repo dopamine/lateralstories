@@ -1,4 +1,4 @@
-title:  lateral &middot; stories
+title: lateral &middot; stories
 email: lateral.stories@xiple.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Lateral Stories in Design
@@ -16,7 +16,6 @@ nav_pages:
   - index.md
   - stories.html
   - blog.md
-  - call-for-participants.md
   - about.md
 
 rss: "atom.xml"
@@ -50,13 +49,13 @@ kramdown:
   enable_coderay: false
 
 exclude:
- - setup.md
- - .sass-cache/
- - .jekyll-cache/
- - gemfiles/
- - Gemfile
- - Gemfile.lock
- - CNAME
+  - setup.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
